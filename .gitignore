@@ -1,0 +1,9 @@
+# Python / virtualenv
+__pycache__/
+env/
+
+# Local environment configuration
+.env
+
+# Generated reports (regenerate via `python main.py`)
+reports/*.md
